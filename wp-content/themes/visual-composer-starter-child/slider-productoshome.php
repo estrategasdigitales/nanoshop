@@ -1,7 +1,3 @@
-
-
-
-
 <div class="row flex-list">
 
 
@@ -57,7 +53,7 @@
         <?php
         
         ?>
-        <div class="sombrarosa"><img src="<?php echo site_url(); ?>/wp-content/themes/visual-composer-starter-child/img/fondo.png"><span>Comprar</span></div>
+        <div class="sombrarosa"><span>VER PRODUCTO</span></div>
     </a>
 </div>
 
