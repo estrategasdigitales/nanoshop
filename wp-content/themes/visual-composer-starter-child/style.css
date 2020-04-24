@@ -16,9 +16,8 @@ Text Domain: visual-composer-starter-child
 }
 
 
-@font-face {font-family: "Myriad Pro"; src: url("//db.onlinewebfonts.com/t/3dd6e9888191722420f62dd54664bc94.eot"); src: url("//db.onlinewebfonts.com/t/3dd6e9888191722420f62dd54664bc94.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/3dd6e9888191722420f62dd54664bc94.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/3dd6e9888191722420f62dd54664bc94.woff") format("woff"), url("//db.onlinewebfonts.com/t/3dd6e9888191722420f62dd54664bc94.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/3dd6e9888191722420f62dd54664bc94.svg#Myriad Pro") format("svg"); }
 body,html,.vc_tta-title-text,p,span,input{
-    font-family: 'Myriad Pro', sans-serif !important;
+    font-family: 'Muli', sans-serif;
 }
 table.wp-list-table .column-name{
     width: 1px !important;
@@ -26,11 +25,11 @@ table.wp-list-table .column-name{
 body{
 }
 h1{
-    font-family: 'Myriad Pro', sans-serif !important;
+    font-family: 'Muli', sans-serif !important;
     font-size: 29px !important;
     margin-bottom: 5px !important;
-    color: #000000 !important;
-    font-weight: bold !important;
+    color: #22225c !important;
+    font-weight: 800 !important;
     text-transform: uppercase !important;
     border-left: 7px solid #27cbee;
     padding-left: 7px;
@@ -38,31 +37,31 @@ h1{
 }
 
 h2{
-    font-family: 'Myriad Pro', sans-serif !important;
+    font-family: 'Muli', sans-serif !important;
     font-size: 25px !important;
     font-weight: bold !important;
     color: #000000 !important;
     margin-bottom: 5px !important;
 }
 h2.dhvc-woo-title.dhvc-woo-clearfix,.woocommerce-loop-product__title{
-    font-family: 'Myriad Pro', sans-serif !important;
+    font-family: 'Muli', sans-serif;
 }
 h3{
-    font-family: 'Myriad Pro', sans-serif !important;
+    font-family: 'Muli', sans-serif !important;
     font-size: 18px !important;
     color: #000000 !important;
     font-weight: bold !important;
     margin-bottom: 5px !important;
 }
 h5{
-    font-family: 'Myriad Pro', sans-serif !important;
+    font-family: 'Muli', sans-serif;
     font-size: 20px !important;
     color: #000000 !important;
     font-weight: bold !important;
     margin-bottom: 5px !important;
 }
 #newslet h1{
-    font-family: 'Myriad Pro', sans-serif !important;
+    font-family: 'Muli', sans-serif;
     text-transform: uppercase;
     color: #ffff0a !important;
     margin-bottom: 20px !important;
@@ -91,13 +90,13 @@ p{
     font-size: 20px !important;
 }
 body, #main-menu ul li ul li, .comment-content cite, .entry-content cite, html,#menu-one-page,.navbar-default .navbar-nav>li>a{
-    font-family: 'Nexa', sans-serif !important;
+    font-family: 'Muli', sans-serif;
 }
 .navbar-default .navbar-nav>li>a,.woocommerce-Price-amount{
-    font-family: 'NexaBold', sans-serif !important;
+    font-family: 'Muli', sans-serif;
 }
 .woocommerce-loop-product__title,.vc_tta-panel-title span{
-    font-family: 'Nexa', sans-serif !important;
+    font-family: 'Muli', sans-serif;
 }
 .contenedormargenes .wpb_content_element{
     margin-bottom: 0px !important;
@@ -253,7 +252,7 @@ li.wc_payment_method{
     list-style:none !important;
 }
 .iconossuperi a{
-    color: #000000 !important;
+    color: #27cbee !important;
     font-weight: bold !important;
 }
 .carrosuperior{
@@ -261,14 +260,18 @@ li.wc_payment_method{
 }
 input#yith-s{
     margin-bottom: 0px;
-    border: 1px solid #1d9add;
+    border: 2px solid #1d9add;
     
     color: #000000;
 }
 button#yith-searchsubmit{
     background-color: transparent;
     border: 0px;
-    color: #000000;
+    color: #ffffff;
+}
+.search-submit-container{
+    background-color: #1d9add;
+    color: #ffffff !important;
 }
 .visualcomposerstarter .woocommerce form.checkout #payment ul.payment_methods li{
         padding-left: 16px !important;
@@ -346,7 +349,7 @@ a.button.wc-backward,button.single_add_to_cart_button.button.alt,.wcqb-preset.pr
     text-transform: uppercase !important;
     font-size: 12px !important;
     padding: 10px !important;
-    font-family: 'Nexa' !important;
+    font-family: 'Muli', sans-serif;
     width: 137px;
     margin: 0px;
     border-radius: 0px;
@@ -416,7 +419,7 @@ a:hover, a:active,a:focus{
     padding: 5px 14px !important;
     text-transform: uppercase;
         font-size: 25px;
-    font-family: 'Nexa' !important;
+    font-family: 'Muli', sans-serif;
 }
 .visualcomposerstarter.woocommerce div.product p.price{
         font-size: 23px;
@@ -598,13 +601,13 @@ div.wpcf7-validation-errors, div.wpcf7-acceptance-missing{
     font-size: 28px !important;
 }
 .descanso2 h2{
-    font-family: 'NexaBold', sans-serif !important;
+    font-family: 'Muli', sans-serif;
     font-size: 53px !important;
     line-height: 0.7;
     color: #ffffff !important;
 }
 #elmundosiempre h2 {
-        font-family: 'NexaBold', sans-serif !important;
+        font-family: 'Muli', sans-serif;
     font-size: 35px !important;
     line-height: 1.4;
     color: #b2e2d9 !important;
@@ -617,14 +620,14 @@ div.wpcf7-validation-errors, div.wpcf7-acceptance-missing{
     text-align: center;
 }
 #elmundosiempre1 h2{
-        font-family: 'NexaBold', sans-serif !important;
+        font-family: 'Muli', sans-serif;
     font-size: 35px !important;
     line-height: 1.4;
     color: #b2e2d9 !important;
 }
 
 #productosindividuales h3{
-    font-family: 'NexaBold', sans-serif !important;
+    font-family: 'Muli', sans-serif;
     font-size: 18px !important;
     line-height: 1.4;
     color: #b2e2d9 !important;
@@ -633,7 +636,7 @@ div.wpcf7-validation-errors, div.wpcf7-acceptance-missing{
     margin-bottom: 0px !important;
 }
 #productosindividuales h4{
-    font-family: 'NexaBold', sans-serif !important;
+    font-family: 'Muli', sans-serif;
     font-size: 26px !important;
     line-height: 1.4;
     color: #000000 !important;
@@ -660,7 +663,7 @@ div.wpcf7-validation-errors, div.wpcf7-acceptance-missing{
     width: 100%;
     font-size: 20px;
     margin-bottom: 3px !important;
-    font-family: 'Nexa', sans-serif !important;
+    font-family: 'Muli', sans-serif;
     line-height: 1.2;
 }
 .contacto input,.contacto textarea{
@@ -787,7 +790,7 @@ strong{
 }
 #dhvc_woo_38ffbc7d58 .dhvc-woo-title a{
         color: #000000 !important;
-    font-family: 'Nexa' !important;
+    font-family: 'Muli', sans-serif;
     text-transform: uppercase;
 }
 
@@ -1458,4 +1461,10 @@ ul.tabs.wc-tabs{
 }
 #diferenciadores h1{
     margin-bottom: 0px !important;
+}
+.search-input-container{
+    padding-right: 0px !important;
+}
+#sectores .vc_col-sm-4{
+    padding: 40px !important;
 }

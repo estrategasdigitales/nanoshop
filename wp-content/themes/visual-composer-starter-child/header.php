@@ -25,6 +25,8 @@
   <script
   src="<?php echo get_site_url(); ?>/wp-content/themes/visual-composer-starter-child/js/scripts.js"></script>
 <script src="https://kit.fontawesome.com/d718b59fa5.js" crossorigin="anonymous"></script>
+<link href="https://fonts.googleapis.com/css2?family=Muli:wght@200;400;700;800&display=swap" rel="stylesheet">
+
 
 	<?php wp_head() ?>
 </head>
