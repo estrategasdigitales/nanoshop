@@ -1453,3 +1453,9 @@ ul.tabs.wc-tabs{
     color: #ffffff;
     display: inline-block;
 }
+#sectores h3:hover{
+    color: #27cbee !important;
+}
+#diferenciadores h1{
+    margin-bottom: 0px !important;
+}
