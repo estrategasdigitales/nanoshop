@@ -24,7 +24,7 @@ if ( visualcomposerstarter_is_the_footer_displayed() ) : ?>
 				</div>
 				
 				<div class="col-md-4 text-center redesf">
-					<span>2020. Solho. Todos los derechos reservados</span>
+					<span>2020. Nanoxen. Todos los derechos reservados</span>
 						
 				</div>
 				
