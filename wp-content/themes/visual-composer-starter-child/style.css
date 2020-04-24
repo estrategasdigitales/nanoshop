@@ -1415,3 +1415,41 @@ ul.tabs.wc-tabs{
        float: left;
    
 }
+.infoproducto .titulop{
+    font-size: 20px;
+    text-transform: uppercase !important;
+    margin-top: 16px !important;
+    margin-bottom: 0px !important;
+    padding-bottom: 0px !important;
+    color: #0074c5;
+    font-weight: bold;
+    display: inline-block;
+    width: 100%;
+
+}
+.infoproducto .precioprodc{
+    font-size: 20px;
+    text-transform: uppercase !important;
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+    padding-bottom: 0px !important;
+    padding-top: 0px !important;
+    color: #22225c;
+    font-weight: bold;
+    display: inline-block;
+    line-height: 1;
+    width: 100%;
+}
+.botonhm{
+       width: 100%;
+    text-align: center;
+    background-color: #27cbee;
+    color: #ffffff;
+    display: inline-block;
+}
+.botonhm:hover{
+   
+    background-color: #22225c;
+    color: #ffffff;
+    display: inline-block;
+}

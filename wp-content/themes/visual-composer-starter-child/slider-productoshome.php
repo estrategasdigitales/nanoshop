@@ -47,13 +47,13 @@
         <?php $image = wp_get_attachment_image_src( get_post_thumbnail_id( $pid  ), 'single-post-thumbnail' );?>
     <img src="<?php  echo $image[0]; ?>">
         <div class="infoproducto">
-            <p><?php echo $p->post_title; ?><p>
-            <span><?php echo $product->get_price_html(); ?></span>
+            <p class="titulop"><?php echo $p->post_title; ?></p>
+            <p class="precioprodc"><?php echo $product->get_price_html(); ?></p>
         </div>
         <?php
         
         ?>
-        <div class="sombrarosa"><span>VER PRODUCTO</span></div>
+        <span class="botonhm">VER PRODUCTO</span>
     </a>
 </div>
 
