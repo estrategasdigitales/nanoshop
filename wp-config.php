@@ -23,10 +23,10 @@
 define( 'DB_NAME', 'nanoxen' );
 
 /** MySQL database username */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'edmay19' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', 'root' );
+define( 'DB_PASSWORD', '6xtfRPvGrrXhgJMs' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost' );
