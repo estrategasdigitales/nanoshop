@@ -54,7 +54,7 @@ if ( visualcomposerstarter_is_the_footer_displayed() ) : ?>
  
  var $container = $('#isotope-list'); //The ID for the list with all the blog posts
  $container.isotope({ //Isotope options, 'item' matches the class in the PHP
- filter: '.todos',
+ filter: '.espuma',
  itemSelector : '.item', 
    layoutMode : 'masonry'
  });
