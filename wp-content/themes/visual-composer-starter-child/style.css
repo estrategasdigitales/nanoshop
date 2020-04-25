@@ -1473,6 +1473,6 @@ button.single_add_to_cart_button.button.alt, .visualcomposerstarter .products .p
     background-color: #27cbee !important;
     font-family: 'Muli', sans-serif !important;
 }
-#carousel-anything-1 .owl-prev::before, #carousel-anything-1 .owl-next::before{
+#elimina #carousel-anything-1 .owl-prev::before, #elimina #carousel-anything-1 .owl-next::before{
     font-size: 41px !important;
 }
