@@ -41,20 +41,13 @@ if ( visualcomposerstarter_is_the_footer_displayed() ) : ?>
 <script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.js"></script>
 
 
-
-
-	<?php visualcomposerstarter_hook_after_footer(); ?>
-<?php endif; ?>
-<?php wp_footer(); ?>
-
-
 <script type="text/javascript">
 	jQuery(document).ready(function ($) {
 
  
  var $container = $('#isotope-list'); //The ID for the list with all the blog posts
  $container.isotope({ //Isotope options, 'item' matches the class in the PHP
- filter: '.espuma',
+ filter: '.item',
  itemSelector : '.item', 
    layoutMode : 'masonry'
  });
@@ -82,6 +75,13 @@ if ( visualcomposerstarter_is_the_footer_displayed() ) : ?>
  
 });
 </script>
+
+	<?php visualcomposerstarter_hook_after_footer(); ?>
+<?php endif; ?>
+<?php wp_footer(); ?>
+
+
+
 </body>
 </html>
 
