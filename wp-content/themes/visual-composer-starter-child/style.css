@@ -1476,3 +1476,6 @@ button.single_add_to_cart_button.button.alt, .visualcomposerstarter .products .p
 #elimina #carousel-anything-1 .owl-prev::before, #elimina #carousel-anything-1 .owl-next::before{
     font-size: 41px !important;
 }
+.visualcomposerstarter.woocommerce div.product .product_title{
+        padding-left: 10px !important;
+}
