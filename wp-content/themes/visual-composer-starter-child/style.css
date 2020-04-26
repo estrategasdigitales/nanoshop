@@ -1142,6 +1142,9 @@ flex-direction: column-reverse;
     .logogen img{
         width: 37%;
     }
+    .certificaciones{
+        text-align: center !important;
+    }
     .redesf a{
         display: inline-block !important;
     }
