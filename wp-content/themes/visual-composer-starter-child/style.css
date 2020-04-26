@@ -877,6 +877,9 @@ section.related.products > h2{
 .visualcomposerstarter.woocommerce button.button, .visualcomposerstarter.woocommerce a.button.product_type_simple, .visualcomposerstarter.woocommerce a.button.product_type_grouped, .visualcomposerstarter.woocommerce a.button.product_type_variable, .visualcomposerstarter.woocommerce a.button.product_type_external, .visualcomposerstarter .woocommerce .buttons a.button.wc-forward, .visualcomposerstarter .woocommerce #place_order, .visualcomposerstarter .woocommerce .button.checkout-button, .visualcomposerstarter .woocommerce .button.wc-backward, .visualcomposerstarter .woocommerce .track_order .button, .visualcomposerstarter .woocommerce .vct-thank-you-footer a, .visualcomposerstarter .woocommerce .woocommerce-EditAccountForm .button, .visualcomposerstarter .woocommerce .woocommerce-MyAccount-content a.edit, .visualcomposerstarter .woocommerce .woocommerce-mini-cart__buttons.buttons a, .visualcomposerstarter .woocommerce .woocommerce-orders-table__cell .button, .visualcomposerstarter .woocommerce a.button, .visualcomposerstarter .woocommerce button.button, .visualcomposerstarter #review_form #respond .form-submit .submit{
     background: #bb092e !important;
 }
+#sectores .vc_col-sm-4{
+    padding: 20px 35px 0px 0px !important;
+}
 @media (max-width: 1024px) {
     .iconossuperi a{
         margin: 0px;
@@ -1476,9 +1479,7 @@ ul.tabs.wc-tabs{
 .search-input-container{
     padding-right: 0px !important;
 }
-#sectores .vc_col-sm-4{
-    padding: 20px 35px 0px 0px !important;
-}
+
 button.single_add_to_cart_button.button.alt, .visualcomposerstarter .products .product .button.add_to_cart_button{
     background-color: #27cbee !important;
     font-family: 'Muli', sans-serif !important;
