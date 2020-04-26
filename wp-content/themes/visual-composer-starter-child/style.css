@@ -1148,6 +1148,9 @@ flex-direction: column-reverse;
     .redesf a{
         display: inline-block !important;
     }
+    #sectores .vc_col-sm-4{
+        padding: 20px 0px 0px 0px !important;
+    }
     .certificaciones{
         width: 100% !important;
     }
