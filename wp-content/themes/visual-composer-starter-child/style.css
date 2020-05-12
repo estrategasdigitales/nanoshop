@@ -1385,6 +1385,7 @@ ul.tabs.wc-tabs{
 }
 .flip-box-wrap .ifb-jq-height .ifb-back p{
            padding: 28px;
+               line-height: 1.4 !important;
 }
 #caracatetis ul{
     list-style:none;
