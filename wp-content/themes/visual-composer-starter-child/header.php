@@ -41,7 +41,7 @@
       <div class="container">
         
         <div class="col-md-6 col-xs-12 logogen">
-          <a class="navbar-brand" href="<?php echo site_url(); ?>"><img src="<?php echo site_url(); ?>/wp-content/themes/visual-composer-starter-child/img/logo.png"></a>
+          <a class="navbar-brand" href="<?php echo site_url(); ?>"><img src="<?php echo site_url(); ?>/wp-content/themes/visual-composer-starter-child/img/logo_nanoxen.svg"></a>
         </div>
         <div class="col-md-6 col-xs-12 text-right iconossuperi"> 
           <div class="col-md-8 col-sm-6 text-right">

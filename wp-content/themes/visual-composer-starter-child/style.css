@@ -286,13 +286,13 @@ button#yith-searchsubmit{
     min-height: 58px;
 }
 #footer{
-    background-color: #221f58 !important;
+    background-color: #25cbee !important;
     
     color: #000000;
     font-size: 19px;
 }
 #footer a,.redesf span,.redesf a{
-    color: #92a7cf !important;
+    color: #afecf9 !important;
 }
 .home-slider .wpb_content_element{
     margin-bottom: 0px !important;
@@ -834,7 +834,7 @@ section.related.products > h2{
 .redesf{
     padding: 19px;
     font-size: 13px;
-	color: #92a7cf !important;
+	color: #afecf9 !important;
 }
 .redesf p{
     font-weight: bold !important;
